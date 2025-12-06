@@ -71,10 +71,10 @@ const BlogPost = () => {
             </h1>
 
             <div className="flex flex-wrap items-center gap-4 text-sm text-muted-foreground">
-              <span className="flex items-center gap-2">
+              {/* <span className="flex items-center gap-2">
                 <User className="w-4 h-4" />
                 {post.author}
-              </span>
+              </span> */}
               <span className="flex items-center gap-2">
                 <Calendar className="w-4 h-4" />
                 {post.date}
