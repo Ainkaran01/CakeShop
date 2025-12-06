@@ -79,11 +79,11 @@ const Index = () => {
               {/* Stats */}
               <div className="flex gap-8 pt-4">
                 <div>
-                  <p className="font-heading text-3xl font-bold text-foreground">500+</p>
+                  <p className="font-heading text-3xl font-bold text-foreground">200+</p>
                   <p className="text-sm text-muted-foreground">Happy Customers</p>
                 </div>
                 <div>
-                  <p className="font-heading text-3xl font-bold text-foreground">50+</p>
+                  <p className="font-heading text-3xl font-bold text-foreground">5+</p>
                   <p className="text-sm text-muted-foreground">Cake Varieties</p>
                 </div>
                 <div>

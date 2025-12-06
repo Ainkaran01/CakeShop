@@ -74,4 +74,4 @@ export const cakes: Cake[] = [
   },
 ];
 
-export const WHATSAPP_PHONE = "94778235200"; 
+export const WHATSAPP_PHONE =import.meta.env.VITE_WHATSAPP_PHONE; 
