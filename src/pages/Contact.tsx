@@ -2,28 +2,29 @@ import { motion } from "framer-motion";
 import { MapPin, Phone, Mail, Clock, MessageCircle } from "lucide-react";
 import { WHATSAPP_PHONE } from "@/data/products";
 import WhatsAppButton from "@/components/WhatsAppButton";
+import { title } from "process";
 
 const Contact = () => {
   const contactInfo = [
     {
       icon: MapPin,
       title: "Visit Us",
-      details: ["123 Bakery Street", "Sweet Town, ST 12345"],
+      details: ["Sri Inkaran Bakery", "Dutch Road Chavakachcheri"],
     },
     {
       icon: Phone,
       title: "Call Us",
-      details: ["+91 98765 43210", "+91 98765 43211"],
+      details: ["+94 778235200"],
     },
     {
       icon: Mail,
       title: "Email Us",
-      details: ["hello@sweetdelights.com", "orders@sweetdelights.com"],
+      details: ["thadsajinikirubakaran@gmail.com"],
     },
     {
       icon: Clock,
       title: "Opening Hours",
-      details: ["Mon - Sat: 9AM - 8PM", "Sunday: 10AM - 6PM"],
+      details: ["Mon - Sat: 8AM - 9PM", "Sunday: 9AM - 9PM"],
     },
   ];
 
@@ -156,10 +157,10 @@ const Contact = () => {
               <div className="text-center">
                 <MapPin className="w-12 h-12 text-primary mx-auto mb-4" />
                 <p className="text-muted-foreground">
-                  123 Bakery Street, Sweet Town, ST 12345
+                Sri Inkaran Bakery , Dutch Road Chavakachcheri
                 </p>
                 <a
-                  href="https://maps.google.com"
+                  href="https://maps.app.goo.gl/JqXVSnnCz6cTC5rm6"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 mt-4 text-primary font-medium hover:underline"
