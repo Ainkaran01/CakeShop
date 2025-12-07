@@ -47,19 +47,19 @@ Quality matters! Use high-quality chocolate with at least 60% cocoa content for 
 Master these techniques, and your cakes will never be the same!
     `,
     image: "https://images.unsplash.com/photo-1606312619070-d48b4c652a52?w=800&h=400&fit=crop",
-    date: "Dec 1, 2024",
+    date: "Dec 1, 2025",
     readTime: "5 min read",
     category: "Tips & Tricks",
     author: "Chef Maria",
   },
   {
     id: 2,
-    slug: "wedding-cake-trends-2024",
-    title: "Wedding Cake Trends for 2024",
+    slug: "wedding-cake-trends-2025",
+    title: "Wedding Cake Trends for 2025",
     excerpt:
       "From minimalist elegance to bold florals, explore the hottest wedding cake trends that are stealing the show this year.",
     content: `
-Wedding cakes have evolved far beyond the traditional white tiered designs. In 2024, couples are embracing creativity and personalization like never before. Here are the trends that are making waves in the wedding industry.
+Wedding cakes have evolved far beyond the traditional white tiered designs. In 2025, couples are embracing creativity and personalization like never before. Here are the trends that are making waves in the wedding industry.
 
 ## Minimalist Elegance
 
@@ -96,7 +96,7 @@ Monograms, meaningful symbols, and designs that tell the couple's story are more
 Whatever your style, the most important thing is that your wedding cake reflects you as a couple!
     `,
     image: "https://images.unsplash.com/photo-1535254973040-607b474cb50d?w=800&h=400&fit=crop",
-    date: "Nov 28, 2024",
+    date: "Nov 28, 2025",
     readTime: "7 min read",
     category: "Trends",
     author: "Chef Maria",
@@ -164,7 +164,7 @@ Refrigerate and consume within 2-3 days due to exposed cake layers.
 Follow these guidelines, and your cakes will stay fresh and delicious!
     `,
     image: "https://images.unsplash.com/photo-1621303837174-89787a7d4729?w=800&h=400&fit=crop",
-    date: "Nov 20, 2024",
+    date: "Nov 20, 2025",
     readTime: "4 min read",
     category: "Tips & Tricks",
     author: "Chef David",
@@ -243,7 +243,7 @@ Factors affecting price:
 Remember, the best birthday cake is one that brings joy to the celebration!
     `,
     image: "https://images.unsplash.com/photo-1558301211-0d8c8ddee6ec?w=800&h=400&fit=crop",
-    date: "Nov 15, 2024",
+    date: "Nov 15, 2025",
     readTime: "6 min read",
     category: "Guides",
     author: "Chef Maria",
@@ -302,7 +302,7 @@ Key tips for the perfect red velvet:
 Red velvet has stood the test of time because it offers something truly unique – a perfect blend of flavors, textures, and that show-stopping appearance!
     `,
     image: "https://images.unsplash.com/photo-1616541823729-00fe0aacd32c?w=800&h=400&fit=crop",
-    date: "Nov 10, 2024",
+    date: "Nov 10, 2025",
     readTime: "8 min read",
     category: "History",
     author: "Chef David",
@@ -379,7 +379,7 @@ Our vegan cakes regularly fool taste-testers. The secret? We focus on:
 Vegan baking isn't about restriction – it's about creativity and deliciousness for everyone!
     `,
     image: "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=400&fit=crop",
-    date: "Nov 5, 2024",
+    date: "Nov 5, 2025",
     readTime: "5 min read",
     category: "Recipes",
     author: "Chef Maria",
